@@ -1,5 +1,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30" width="30"> I'm Shankar</h1>
 
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Pixel-art developer desk banner" width="100%" />
+
 <!-- TODO: replace with your real one-line role/tagline -->
 <h3 align="center">Full-stack developer · JavaScript / TypeScript · Node.js · React</h3>
 
